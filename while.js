@@ -33,5 +33,47 @@ kola ++;
 console.log(i);
  }
 
+//  practise 
 
 
+function inchToFeet(inch){
+        var feet = inch /12;
+        return feet;
+}
+
+var nanafeet = inchToFeet(156);
+console.log( nanafeet );
+
+
+var danafeet = inchToFeet(168);
+
+console.log( danafeet );
+
+var promise ='I will work harder';
+console.log(promise . toUpperCase());
+
+var promise = "I  promised I WILL Study REGULarly twelve hour";
+console.log(promise. toLocaleLowerCase());
+
+var number = -12;
+var nmbr = Math.abs(number);
+console.log(nmbr); 
+ 
+
+var love = -100 ;
+var hate = Math.abs(love);
+console.log(hate);
+
+
+var love = -100;
+var like = Math.abs(love);
+console.log(like);
+
+function inchtofeet(inch){
+    var feet = inch /12;
+    return feet;
+
+}
+
+var nanifeet =  inchtofeet(156);
+console.log(nanifeet);
