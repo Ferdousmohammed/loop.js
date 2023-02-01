@@ -77,3 +77,32 @@ function inchtofeet(inch){
 
 var nanifeet =  inchtofeet(156);
 console.log(nanifeet);
+
+
+var banana =  -12;
+var absolute = Math.abs(banana);
+console.log(absolute);
+
+
+
+function babatodada (baba){
+    var dada = baba * 2;
+    return dada;
+
+}
+
+var dada = babatodada(40);
+console.log(dada);
+
+var banana =  12.4;
+var result = Math.round(banana);
+console.log(result);
+
+var me = 'ferdous';
+if (me.length > 8){
+   me = 'Mohammed';
+}
+
+
+
+
